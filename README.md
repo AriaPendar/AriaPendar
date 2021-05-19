@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AriaPendar
-- 👀 I’m interested in Java,Go
+- 👀 I’m interested in Java,Go,...
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ariap9047@gmail.com
